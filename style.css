@@ -1,0 +1,66 @@
+h1{
+	font-family: Roboto Slab;
+	text-align: center;
+	background-color: lightgrey;
+	padding: 15px;
+}
+
+
+hr{
+	border: 2px solid black;
+}
+
+img{
+	align-content: center;
+}
+
+p{
+	font-family: Roboto Slab;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+h2{
+	font-family: Roboto Slab;
+	text-align: center;
+	padding: 15px;
+}
+
+
+h5{
+	font-family: Roboto Slab;
+	margin-left: 50px
+}
+
+video{
+	margin-left: 50px
+}
+
+
+body{
+	font-family: Roboto Slab;
+	background-color: #D7BDE2
+	
+}
+
+h2{
+	font-family: Roboto Slab;
+	margin-left: 50px
+}
+
+
+h3{
+	font-family: Roboto Slab;
+	margin-left: 50px
+}
+
+h4{
+	font-family: Roboto Slab;
+	margin-left: 50px
+}
+
+h6{
+	font-family: Roboto Slab;
+	margin-left: 50px
+}
+
